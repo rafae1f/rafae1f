@@ -1,6 +1,6 @@
 # Olá, 👋 Sou [Rafael](https://www.linkedin.com/in/rafae1f/)
 
-## Desenvolvedor Full Stack | DevOps em formação
+## Desenvolvedor Full Stack | DevOps
 
 [![LinkedIn Badge](https://img.shields.io/badge/-@rafae1F-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/rafae1f/)](https://www.linkedin.com/in/rafae1f/)
 [![Spotify Badge](https://img.shields.io/badge/-@rafae1f-1ED760?style=flat-square&labelColor=fff&logo=Spotify&link=https://open.spotify.com/user/rafae1f)](https://open.spotify.com/user/rafae1f)
