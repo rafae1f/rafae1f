@@ -10,9 +10,10 @@
 ### ⚡️ Um pouco mais sobre mim:
 
 - 🔭 Atualmente, estou buscando novas oportunidades na área de Desenvolvimento e DevOps.
-- 🧐 Sou estudante de **DevOps** no programa **Ser + Tech**, oferecido pela **Ada Tech** em parceria com a **Nuclea**.
+- 🧐 Estudante de Pós-Graduação em Ciência de Dados.
+- 🧐 Estudante de **DevOps** no programa **Ser + Tech**, oferecido pela **Ada Tech** em parceria com a **Núclea**.
 - 👨‍💻 Você pode conferir meus projetos no [GitHub](https://github.com/rafae1f?tab=repositories).
-- 💬 Tenho interesse em desenvolvimento mobile, Python, Java e Cloud.
+- 💬 Tenho interesse em Data Science, Python, Java e Cloud.
 
 ### 🚀 Algumas ferramentas que utilizo no meu dia a dia:
 
