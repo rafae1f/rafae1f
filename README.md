@@ -38,6 +38,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="30" height="30" />
 </p>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafae1F&show_icons=true&count_private=true)
+<br>
+<hr>
+<br>
+<div>
+  <a href="https://github.com/rafae1f">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafae1f&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafae1f&layout=compact&langs_count=7&theme=transparent"/>
+</div>
 
