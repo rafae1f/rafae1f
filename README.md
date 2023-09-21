@@ -5,7 +5,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-@rafae1F-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/rafae1f/)](https://www.linkedin.com/in/rafae1f/)
 [![Spotify Badge](https://img.shields.io/badge/-@rafae1f-1ED760?style=flat-square&labelColor=fff&logo=Spotify&link=https://open.spotify.com/user/rafae1f)](https://open.spotify.com/user/rafae1f)
 
-<img align="right" src="https://media1.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Desenvolvedor Gif" width="300"/>
+<img align="right" src="https://i.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.webp" alt="Desenvolvedor Gif" width="300"/>
 
 ### ⚡️ Um pouco mais sobre mim:
 
