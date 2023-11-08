@@ -1,6 +1,6 @@
 # Olá, 👋 Sou [Rafael](https://www.linkedin.com/in/rafae1f/)
 
-## Desenvolvedor Full Stack | DevOps
+## Full Stack | DevOps
 
 [![LinkedIn Badge](https://img.shields.io/badge/-@rafae1F-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/rafae1f/)](https://www.linkedin.com/in/rafae1f/)
 [![Spotify Badge](https://img.shields.io/badge/-@rafae1f-1ED760?style=flat-square&labelColor=fff&logo=Spotify&link=https://open.spotify.com/user/rafae1f)](https://open.spotify.com/user/rafae1f)
@@ -9,9 +9,10 @@
 
 ### ⚡️ Um pouco mais sobre mim:
 
-- 🔭 Buscando mais desenvolvimento na área de Dados e DevOps.
-- 🧐 Estudante de Pós-Graduação em **Ciência de Dados**.
-- 🧐 Estudante de **DevOps** no programa **Ser + Tech** oferecido pela **Ada Tech** em parceria com a **Núclea**.
+- 🔭 Buscando mais desenvolvimento na área de DevOps, Dados e Machine Learning.
+- 🧐 Estudante de Pós-Graduação em **Ciência de Dados** pela **UNISUL** 09/2023 a 09/2024.
+- 🧐 Formação em **DevOps** através do programa **Ser + Tech** oferecido pela **Ada Tech** em parceria com a **Núclea** 06/2023 a 11/2023.
+- 🧐 Graduado em Sistemas para Internet pela **UNICESUMAR** 2023 01/2021 a 07/2023.
 - 👨‍💻 Você pode conferir meus projetos no [GitHub](https://github.com/rafae1f?tab=repositories).
 - 💬 Tenho interesse em **Data Science**, Python, Java e Cloud.
 
