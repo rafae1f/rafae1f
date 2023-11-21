@@ -14,7 +14,7 @@
 - 🧐 Formação em **DevOps** através do programa **Ser + Tech** oferecido pela **Ada Tech** em parceria com a **Núclea** 06/2023 a 11/2023.
 - 🧐 Graduado em **Sistemas para Internet** pela **UNICESUMAR** 2023 01/2021 a 07/2023.
 - 👨‍💻 Você pode conferir meus projetos no [GitHub](https://github.com/rafae1f?tab=repositories).
-- 💬 Tenho interesse em **Data Science**, Python, Java e Cloud.
+- 💬 Tenho interesse em **Data Science**, Python, Java, **Kubernetes** e Cloud.
 
 ### 🚀 Algumas ferramentas que utilizo no meu dia a dia:
 
