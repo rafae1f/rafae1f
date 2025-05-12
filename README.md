@@ -10,11 +10,11 @@
 ### ⚡️ Um pouco mais sobre mim:
 
 - 🔭 Buscando mais desenvolvimento na área de Back-End e DevOps.
-- 🧐 Estudante de Pós-Graduação em **Ciência de Dados** pela **UNISUL** 09/2023 a 06/2025.
-- 🧐 Certificação em **DevOps** pela **Ada Tech** em parceria com a **Núclea** 06/2023 a 11/2023.
-- 🧐 Graduado em **Sistemas para Internet** pela **UniCesumar** 01/2021 a 08/2023.
+- 🧐 Estudante de Pós-Graduação em **Ciência de Dados** pela **UNISUL**.
+- 🧐 Certificação em **DevOps** pela **Ada Tech** em parceria com a **Núclea**.
+- 🧐 Graduado em **Sistemas para Internet**.
 - 👨‍💻 Você pode conferir meus projetos no [GitHub](https://github.com/rafae1f?tab=repositories).
-- 💬 Tenho interesse em **Java**, Python, **Kubernetes** e Cloud.
+- 💬 Tenho interesse em **Go**, TypeScript, **Kubernetes** e Cloud.
 
 ### 🚀 Algumas ferramentas que utilizo no meu dia a dia:
 
