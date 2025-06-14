@@ -9,12 +9,12 @@
 
 ### ⚡️ Um pouco mais sobre mim:
 
-- 🔭 Buscando mais desenvolvimento na área de Back-End e DevOps.
+- 🔭 Aprendendo 1% a mais a cada dia...
 - 🧐 Estudante de Pós-Graduação em **Ciência de Dados** pela **UNISUL**.
 - 🧐 Certificação em **DevOps** pela **Ada Tech** em parceria com a **Núclea**.
 - 🧐 Graduado em **Sistemas para Internet**.
 - 👨‍💻 Você pode conferir meus projetos no [GitHub](https://github.com/rafae1f?tab=repositories).
-- 💬 Tenho interesse em **Go**, TypeScript, **Kubernetes** e Cloud.
+- 💬 Tenho interesse em **Go**, **Rust**, TypeScript, **Kubernetes**, Virtualização e IA.
 
 ### 🚀 Algumas ferramentas que utilizo no meu dia a dia:
 
@@ -34,8 +34,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="AngularJS" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="30" height="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="30" height="30" />
 </p>
